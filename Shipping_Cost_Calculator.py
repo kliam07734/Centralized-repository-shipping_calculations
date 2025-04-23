@@ -1,5 +1,4 @@
-# Here is a new update by kliam07734
-# Version 4
+# Here is another update by kliam07734
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
